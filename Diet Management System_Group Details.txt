@@ -1,0 +1,17 @@
+
+Group Name: T
+Project Title: Diet Management System
+
+Group Details
+-------------
+
+Student ID      Student Name			Email			      Contact Number         Implementation Function
+
+1 26401221065    Ankit Hela	        	 ankithela004@gmail.com         9083797804           Homepage, User Account page, Login & Register, ContactUs ,Online & Offline Payment Option
+
+2 26401221056    M.D Tohid Raza		         Mdtohidkhan86@gmail.com        9123253977            Tele medicine, Diet plan,Appointment For Diet Plan
+
+3 26401221089    Arman Ansari		         armaanvicky7013@gmail.com      6204196498          About Us,Health Check_up ,Appointment For Health Check-up 
+
+4 26401221045    Fahad Ali                       fa019135@gmail.com             9875675295           Feedback , Medical  information Confirm your payment 
+  
